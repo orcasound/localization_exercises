@@ -1,5 +1,5 @@
 # localization_exercises
-# This repositoriy will contain python codes important in using multiple hydrophones to localize sound sousrces.
+# This repository will contain data and  python codes important in using multiple hydrophones to localize sound sousrces.
 # Exercise #1
 
 ## Problem statement:
