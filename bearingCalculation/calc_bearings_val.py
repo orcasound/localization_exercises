@@ -87,7 +87,7 @@ theta_sig_Haxis = []
 theta_bearing_1 = []
 theta_bearing_2 = []
 for dt in time_delays:
-    theta = np.degrees(np.acos(dt*speed_of_sound / hydrophone_separation))    # angle between L->R axis and sound path coming in
+    theta = np.degrees(np.arccos(dt*speed_of_sound / hydrophone_separation))    # angle between L->R axis and sound path coming in
     thetas.append(theta)
     theta_sig_Haxis.append(theta)
     theta_bearing_1.append(array_theta_axis_re_N - theta)
