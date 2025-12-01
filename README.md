@@ -17,7 +17,7 @@
 
 ## Problem statement:
 
-### A binaural array has been deployed at an x,y,z location relative to a local geographic waypoint with the axis from the L channel to the R channel is set to a given bearing angle measured positive when clockwise from North.
+### A binaural array has been deployed at an x,y,z location relative to a local geographic waypoint with the axis from the L channel to the R channel set to a given bearing angle measured positive when clockwise from North.
 ### A variety of calls come from various nearby locations.  These locations are unknown. The calls are recorded in a wav format file.
 
 ## The question:
