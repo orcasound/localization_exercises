@@ -24,7 +24,7 @@
 ### What can you determine about these calls and how sure are you in your conclusions?
 
 ### Since this is a model problem, we know where the calls were when the wav file was synthesized.  Compare your location notions with the known sources.
-### And example: (The two hyperbolas are drawn with correlation lags one less and one more than the one computed from the wav file.)
+### An example: (The two hyperbolas are drawn with correlation lags one less and one more than the one computed from the wav file.)
 ![img.png](img.png)
     
 ## meta data:  
