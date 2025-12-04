@@ -35,3 +35,16 @@
 ### hydrophone_separation = 1.6  # Fixed separation in meters
 ### when needed, ask for the original source locations
 
+# Exercise #3
+
+## Problem statement:
+### Two binaural arrays are deployed, one at Orcasound Lab and one at Sunset Bay.  Place some sources at locations out in front of these two arrays.
+### Model the signal paths to each hydrophone as straight lines
+### Determine the time of arrival differences for each signal to each of the two arrays. 
+### Convert these to lags in samples and synthesize a stereo file for this lag.
+### Concantenate all these signals into a wav file with labels for the time at the center of each call.
+###
+### Now analyze this wav and label file and evaluate the 'accuracy' of localizing each source.
+### Treat this as a two dimensional problem.
+###
+### I, Val, am working on a solution but am off today, in the drizzle, to put some lightbulb signals into this problem in the real world. :--)
