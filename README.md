@@ -48,3 +48,8 @@
 ### Treat this as a two dimensional problem.
 ###
 ### I, Val, am working on a solution but am off today, in the drizzle, to put some lightbulb signals into this problem in the real world. :--)
+
+# Exercise #4
+
+### Build real-time display of hyperbolas allowing user to change parameters and see what happens
+
